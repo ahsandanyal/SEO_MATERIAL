@@ -1,0 +1,46 @@
+Technical SEO
+Technical SEO Includes Improving the technical factors of a website to increase the ranking of its pages in the search engines.
+
+Technical seo onpage a he hesah hota hai,technical seo mai bhee apni website pe hee kaam kar rhe hai
+
+
+Benefits:
+Indexing Cruwling better
+
+checklist of technical seo:
+1.Sitemap.xml(ye hum use karte hai search engine ki better performance
+ke lye
+2.Sitemap.html:
+Jb koi website bhot ziyada baari ho to user ko bhot difficulty hoti hai 
+ke kon si cheez kaha pe hai, to iss waja se sitemap.html apni website pe hona chahye
+ku ke iss se use ko jes cheez pe jana hai to wo  easly ja skta hai.
+3.Robots.txt file: Is mai wo file ki list hoti hai jene hum crawel nhi 
+karwana chate.
+
+4.page load time
+5.Optimization of Js & Css
+6.SSL Certificate:Secure Socket layer Certificate:
+
+..Google chahta hai jo bhee website wo surf kare to un website mai 
+SSL Lazmi hona chahye,
+1.SSl Certificate aik encrypted link create karta hai web browser or server
+2.ke becch mai(ye btata hai ke apki website secure hai)
+3.kesi url mai https hot to iss se pta chal ja ta hai ke ssl certificate lagawa hai
+
+
+7..Canonical tag:agr mai chahta hu ke meri website pe traffic aye for example
+1.Agr koi type kar w3school, www.w3school.com, https://w3school.com to us
+user koi w3school he daikhe
+
+8.Redirection(404,301, 302):
+Agar hamri website pe koi page nhi hai to usko 404 ka error nhi ana chaye, ap
+usko apni website ke home page pe le kar aajo,ya phir kesi or page pe
+2.ya phir ap usko koi or  link dedo, jo user aya hai wo kesi or website pe na jae
+3.
+
+9.W3C Validation:
+10.Open Graph Tag
+11.Structured Data
+
+
+

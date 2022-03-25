@@ -1,0 +1,116 @@
+Seo Document
+Alexa Is Rank Checking Software they help to analysis,which platform to generate a traffic
+this software more helpful to seo Anylatics.
+
+Alexa Definition:
+Alexa is a global ranking system.The lower the Alexa
+ rank number,the more popular the websie is.
+1.It is a compare tool rather than a webb traffic tool.
+
+.......How Alexa Ranking works?
+Alexa rank is calcilate by combining a sites estimated traffic as well as visitors engagement over the 
+previous three  months.
+......Advantages of alexa toolbar
+1.Analyze popularity
+2.search analytics 
+3.Competitor websites
+4.Wayback
+
+How to improve on page seo & Mistakes to avoid in on page seo?
+..................10 most common seo mistakes.....
+1..Duplicate or copied content.
+content copied nhi ho, or kesi or ke content mai changes kar ke bhee usy use na kia ho, ye 2 policy google algorithm ke 
+kelafa hai
+
+2..Image (Alt) Tags and broken images 
+40% website mai images ke Alt tags missing hote hai
+Alt tag ka benefit ye hai ke ..google images ko read nhi karta ..sirf Alt Tag or
+Description ko karta hai
+
+
+3..Title Taggs issues
+
+1.Too Much texg or keyword stuffing in title tag
+2.major issue duplicate or copied title tags
+3.Less text in title tags..min(15) max(17). 
+4.No text or missing text
+
+4...Meta Description
+A..Duplicate or copied meta Description
+B..Very less or no Description ..min word is 15 and maximum
+word is 20 word in Meta Description
+C..Keyword Staffing in meta description
+
+
+5...less or no time given on keyword research
+people are no time taken in search keyword ..log bhot kamm time dete hai 
+keyword research ko keyword ko nhhi daikh te ke ye long tail hai ya short tail hai 
+keyword ko research karne ke lye hum different software ka use karte hai.
+for example: Google Trends, Google keyword Planner,SemRush 
+agar ap keyword research sahi se karlo ge to ap ka onpage seo sahi hoga ku ke ap ne jo keyword 
+choose kare hai un pe traffic ata hai.
+
+
+6..Broken Internal or External Links
+Most of the times in website audit it is shown that internal links are not right linked or broken.
+External links are also not found or broken due to lack of timely website audit or 
+Monitoring by team.
+...External internal links ko check karna chaye ..is se ap ki ranking pe bhot 
+ziyada faraq parta hai
+
+
+7.Less Content in web pages 
+Maximum website having very less content in their web pages.
+Website mai content much hona chaye ...min 1200 words or max 1600 words or content unique hona chaye 
+
+...jo website 3000 se ziyada words content karte hai wo phir lead bhee ziyada generate karte hai 
+
+8.H1,H2,H3 TAGS MISSING THIS IS HEADING TAGS
+
+9.WEBSITE ARE NOT MOBILE FRIENDLY OR RESPONSIVE ,IF WEBSITE ARE MOBILE FRIENDLY BUT NOT PROPER ADJUSTABLE IN MOBILE SIZE
+10 Website UI Or Structure or design is not user friendly
+Now days user experience is must and while designing a website you should plan and design your 
+user interface UI according to your Niche target group industry standards and trends
+
+Website is not optimized you will take 10 on page seo mistakes
+
+
+..................How to choose keywors for seo & how to find right keywords for seo.........
+How to choose keyword they generate sells and lead, oriented keyword in Seo?
+
+Online Keyword Research
+We have many free and paid online keyword research tools and platform for filtered keyword research using many criteria.
+offline Keyword Research
+2.Historical and Upcoming trends
+3.Related Searches and phrases
+4.Search volume by city or keywords
+5.Quality of keywords and many more stats.
+few of the tools and platform are:-
+Google Keyword Planner
+Google trends
+Google autocomplete
+semrush
+ahrefs
+
+
+How to Use Google Trends For Seo?
+Google trends help for 
+1.Business ko plan karne mai
+2.keyword ko plan karne mai
+3.jo keyword hum search karte hai uska
+sahi volume,time, date, location quantity of people
+4.kon si cheez trend kar rahi hai 
+5.hume is se trend pta chalte hai kia chal rha us se hum kese faida bta rhe hai
+
+
+
+Time 3:15:56 how to audit seo
+use moz website they check broken link our website  
+
+check your websites speed test this browser.
+first one is ...developers.google.com
+second is ....Moz 
+third is ...Alexa chrome extension they will help to check rank our websites
+fourth is ...seositecheckup.com
+fifth is ...seo optimizer they provide complete website report ..
+

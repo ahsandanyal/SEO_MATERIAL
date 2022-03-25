@@ -1,0 +1,21 @@
+google web master apko apki website ki health ke bare mai bta ta hai ..kia purformance hai kia cheez sahi hai kia cheez sahi nhi hai
+website ki linking 
+1.performance tab: 
+web image or video ka search result daikh sakte hai or compare bhee karskte hai
+date or month bhee select kar sktehai 
+Tab: Total clicks, Total Impressions, Average CTR, Average position.
+QUries tab: mai tag ate hai 
+CLicks tab: mai clicks ate hai jo tag dal ke website pe aye hai
+Impressions:mai ata hai kitne logo ne website title view kia
+
+is mai wo keyword bhee ate hai jen ka hum se seo kia bhee nhi hai iss se hum puri list nikal skte hai.
+
+Url Inspection: mai hum apni website crowl karskte hai 
+how to process url inspection;just copy link your website and paste in url inspection and check
+
+.....Index.....
+----Coverage------agar apki development or designing mai koi error hoge to wo coverage mai show hoge
+----Sitemap-------agar ap seo kar rhe ho to side map boht zaroori hai..jb ap sidemap banakar upload kardo apni website pe
+to ..uske baad ap sitemap url upload karo google console side map pe to ye crowl kare ga.
+----speed (experimental) mai apki website ki speed pta chal jate hai
+jb ap aav

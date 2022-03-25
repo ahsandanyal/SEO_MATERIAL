@@ -1,0 +1,23 @@
+What is Search Engine?
+A Search engine is A software system designed to search out the information form world wide web according to the user's query.
+
+Different types of Search engine.
+Google 
+Yahoo
+Bing
+
+China:
+baiDu 85% Market share cover in china
+Baidu, Inc. is a Chinese multinational technology 
+company specializing in Internet-related services 
+and products and artificial intelligence, headquartered in Beijing's Haidian District. It is one of the largest AI and Internet companies in the world.
+
+Russia:
+Yandex 50% people use Yandex and 50% use google
+Yandex is a search engine and web portal. Yandex offers internet search and other services like maps, navigator, public transport, taxi, weather, news,
+
+Duck Duck GO
+Duck Duck Go they do not save a previous data
+DuckDuckGo is an internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results
+
+============How does search engine Work?===
