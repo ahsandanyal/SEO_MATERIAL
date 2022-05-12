@@ -1,0 +1,23 @@
+What is SEO
+SEO is a Search Engine Optimization,Different types of search Engine Bing, Google, Yahoo, Many More but Most famous is google
+95% globally using google search engine
+
+What ae Google Bots?
+www.dmoz.org
+1.Thet look for links, for name of links, for environment of link (text/images that surrounds the link)
+2.Thet have in their algorithm over 300 factors taken into consideration how your website is gonna be indexed in google ranking.
+3.They check pictures (how are they called ) or even if you use headlines to seprate your text which makes it easier ti read.
+4.The most important thing in seo is how other talks (links to ) about us what content we have.
+
+That's why, it is most important to
+1) learn how to get links and that's what we gonna learn in future lessons
+2) How to create a great content for example your company website won't be linked if there is not
+any useful
+
+Search Engine Market share in united states of america
+Google 85.8%
+bing 6.66%
+yahoo 6.3%
+AOL 0.45%
+DuckDuckGo 0.34%
+Other 0.45%
